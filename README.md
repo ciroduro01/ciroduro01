@@ -1,4 +1,4 @@
-# Hola, soy Ciro | Hi, I'm Ciro | Salut, je suis Ciro | Oi, eu sou Ciro | こんにちは、シロです
+# Hola, soy Ciro | Hi, I'm Ciro | Oi, eu sou Ciro | こんにちは、シロです | Salut, je suis Ciro 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
