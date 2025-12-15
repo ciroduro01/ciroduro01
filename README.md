@@ -1,4 +1,4 @@
-# Hola, soy Ciro | Hi, I'm Ciro | Salut, je suis Ciro | Oi, eu sou Ciro |     こんにちは、シロです |
+# Hola, soy Ciro | Hi, I'm Ciro | Oi, eu sou Ciro | こんにちは、シロです | Salut, je suis Ciro |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -29,17 +29,6 @@ This profile gathers my projects and learning journey.
 
 ---
 
-## Français
-Je suis passionné par la programmation, les bases de données et l'analyse de données.  
-Ce profil rassemble mes projets et mes apprentissages.
-
-### Dépôts
-- [Base_de_Datos_PostgreSQL](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL) → Projets de modélisation et de requêtes en PostgreSQL, intégrant des outils comme Power BI et DBeaver.  
-- [Programacion_con_Python](https://github.com/ciroduro01/Programacion_con_Python) → Exercices et projets en Python, explorant la logique, les structures et les applications pratiques.  
-- [Data_Analysis_Projects](https://github.com/ciroduro01/Data_Analysis_Projects) → Portefeuille d’analyse de données avec SQL, Python et Power BI, centré sur les processus, les métriques et les visualisations.  
-
----
-
 ## Português
 Sou apaixonado por programação, bancos de dados e análise de dados.  
 Este perfil reúne meus projetos e aprendizados.
@@ -59,3 +48,16 @@ Este perfil reúne meus projetos e aprendizados.
 - [Base_de_Datos_PostgreSQL](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL) → PostgreSQLでのモデリングとクエリのプロジェクト。Power BIやDBeaverなどのツールを統合。  
 - [Programacion_con_Python](https://github.com/ciroduro01/Programacion_con_Python) → Pythonの演習とプロジェクト。ロジック、構造、実践的な応用を探求。  
 - [Data_Analysis_Projects](https://github.com/ciroduro01/Data_Analysis_Projects) → SQL、Python、Power BIを用いたデータ分析ポートフォリオ。プロセス、指標、可視化に焦点。  
+
+---
+
+## Français
+Je suis passionné par la programmation, les bases de données et l'analyse de données.  
+Ce profil rassemble mes projets et mes apprentissages.
+
+### Dépôts
+- [Base_de_Datos_PostgreSQL](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL) → Projets de modélisation et de requêtes en PostgreSQL, intégrant des outils comme Power BI et DBeaver.  
+- [Programacion_con_Python](https://github.com/ciroduro01/Programacion_con_Python) → Exercices et projets en Python, explorant la logique, les structures et les applications pratiques.  
+- [Data_Analysis_Projects](https://github.com/ciroduro01/Data_Analysis_Projects) → Portefeuille d’analyse de données avec SQL, Python et Power BI, centré sur les processus, les métriques et les visualisations.  
+
+---
