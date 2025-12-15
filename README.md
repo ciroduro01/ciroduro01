@@ -1,5 +1,10 @@
-# Hola, soy Ciro | Hi, I'm Ciro | Oi, eu sou Ciro | こんにちは、シロです | Salut, je suis Ciro
+# 👋 Hola, soy Ciro | Hi, I'm Ciro | Salut, je suis Ciro | Olá, eu sou Ciro | こんにちは、シロです
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Multilingual](https://img.shields.io/badge/Profile-🌍%20Multilingual-blue?style=for-the-badge)
 ---
 
 ## Español
