@@ -1,4 +1,4 @@
-# Hola, soy Ciro | Hi, I'm Ciro | Salut, je suis Ciro | Olá, eu sou Ciro | こんにちは、シロです
+# Hola, soy Ciro | Hi, I'm Ciro | Oi, eu sou Ciro | こんにちは、シロです | Salut, je suis Ciro
 
 ---
 
