@@ -33,7 +33,7 @@ This profile gathers my projects and learning journey.
 Je suis passionné par la programmation, les bases de données et l'analyse de données.  
 Ce profil rassemble mes projets et mes apprentissages.
 
-### Répertoires
+### Dépôts
 - [Base_de_Datos_PostgreSQL](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL) → Projets de modélisation et de requêtes en PostgreSQL, intégrant des outils comme Power BI et DBeaver.  
 - [Programacion_con_Python](https://github.com/ciroduro01/Programacion_con_Python) → Exercices et projets en Python, explorant la logique, les structures et les applications pratiques.  
 - [Data_Analysis_Projects](https://github.com/ciroduro01/Data_Analysis_Projects) → Portefeuille d’analyse de données avec SQL, Python et Power BI, centré sur les processus, les métriques et les visualisations.  
