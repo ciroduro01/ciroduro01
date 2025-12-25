@@ -1,4 +1,4 @@
-# Hi, I'm Ciro | Hola, Soy Ciro
+# Hi, I'm Ciro
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -72,15 +72,6 @@ Open to **global and remote opportunities** as a *Data Analyst* or *Python Devel
 - Kaggle → [ciroduro01](https://www.kaggle.com/ciroduro01)  
 - Medium → [ciroduro01](https://medium.com/@ciroduro01)
 
----
-
-## Español
-Soy un apasionado de la programación, bases de datos y análisis de datos.  
-Este perfil reúne mis proyectos y aprendizajes.
-
-### Repositorios
-- [Base_de_Datos_PostgreSQL](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL) → Proyectos de modelado y consultas en PostgreSQL, integrando herramientas como Power BI y DBeaver.  
-- [Programacion_con_Python](https://github.com/ciroduro01/Programacion_con_Python) → Ejercicios y proyectos en Python, explorando lógica, estructuras y aplicaciones prácticas.  
-- [Data_Analysis_Projects](https://github.com/ciroduro01/Data_Analysis_Projects) → Portafolio de análisis de datos con SQL, Python y Power BI, con enfoque en procesos, métricas y visualizaciones.  
+*Explore my projects and publications — I’m passionate about turning data into insights and building solutions that scale.*
 
 ---
