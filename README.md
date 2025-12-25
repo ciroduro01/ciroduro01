@@ -82,6 +82,7 @@ Open to **global and remote opportunities** as a *Data Analyst* or *Python Devel
 - GitHub → [ciroduro01](https://github.com/ciroduro01)  
 - Kaggle → [ciroduro01](https://www.kaggle.com/ciroduro01)  
 - Medium → [ciroduro01](https://medium.com/@ciroduro01)
+- Email → ciroduro01@gmail.com
 
 *Explore my projects and publications — I’m passionate about turning data into insights and building solutions that scale.*
 
