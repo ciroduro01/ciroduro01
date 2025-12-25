@@ -7,16 +7,16 @@
 ![Multilingual](https://img.shields.io/badge/Profile-🌍%20Multilingual-blue?style=for-the-badge)
 ---
 
-## English
-I'm passionate about programming, databases, and data analysis.  
-This profile gathers my projects and learning journey.
+## About Me
+I’m a data analyst and developer with experience in **databases, Python, and Data Science**.  
+My portfolio includes **35 projects**, over **60 certifications**, publications on **Medium**, original datasets on **Kaggle**, and a technical book (*Digital Foundations*).
 
-### Repositories
+## Repositories
 - [Base_de_Datos_PostgreSQL](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL) → Modeling and query projects in PostgreSQL, integrating tools such as Power BI and DBeaver.  
 - [Programacion_con_Python](https://github.com/ciroduro01/Programacion_con_Python) → Python exercises and projects, exploring logic, structures, and practical applications.  
 - [Data_Analysis_Projects](https://github.com/ciroduro01/Data_Analysis_Projects) → Data analysis portfolio using SQL, Python, and Power BI, focused on processes, metrics, and visualizations.
 
-### Featured Projects
+## Featured Projects
 
 **Database Modeling (PostgreSQL)**
 - *E-Commerce Platform*: Transaction & billing model with advanced queries.
@@ -31,6 +31,30 @@ This profile gathers my projects and learning journey.
 - *Housing Value Prediction*: Regression with Random Forest, high R² score.
 - *Geospatial Analysis*: Traffic accident heatmaps with Folium.
 - *Sentiment Analysis (NLP)*: TF-IDF and classification of reviews.
+
+
+## Certifications & Awards
+Over 60 certifications across:
+- **Cisco Academy** (Data Analysis, Data Science with Python, Digital Literacy)  
+- **SoloLearn** (Web Development, Python Developer, Artificial Intelligence)  
+- **freeCodeCamp** (Legacy Responsive Web Design, Foundational C# with Microsoft)
+- **Microsoft Learn** (Azure Fundamentals, Power BI Data Analysis)  
+- **France Université Numérique (FUN)** (Vivre en France B1, Éthique de la Recherche)
+- **Universidad Nacional de Córdoba** (Hoja de Cálculo de Google Drive, Innovación Abierta y Vinculación)
+
+## Kaggle & Medium
+- **Kaggle** → 8 original datasets + 15 notebooks (Python & R).  
+- **Medium** → Articles on topics such as programming, robotics, and data analysis.  
+
+## Digital Foundations Series
+- **Volume 1 published**: Hardware & Software, The Desktop, Google Platform, and Word Processing (120 practical activities).  
+- **Volumes 2 & 3 coming soon**. 
+
+## Contact
+Open to **global and remote opportunities** as a *Data Analyst* or *Python Developer*.  
+- GitHub: [ciroduro01](https://github.com/ciroduro01)  
+- Kaggle: [ciroduro01](https://www.kaggle.com/ciroduro01)  
+- Medium: [ciroduro01](https://medium.com/@ciroduro01)
 
 ---
 
