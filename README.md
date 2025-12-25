@@ -26,8 +26,8 @@ My portfolio includes **35 projects**, over **60 certifications**, publications 
 ## Featured Projects
 
 **Database Modeling (PostgreSQL)**
-- *E-Commerce Platform*: Transaction & billing model with advanced queries.
-- *Gestión Académica* (Academic Management Scheme): Performance calculations and BI integration.
+- [E-Commerce Platform](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL/tree/main/Proyecto_06_Plataforma_eCommerce): Transaction & billing model with advanced queries.
+- [Gestión Académica](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL/tree/main/Proyecto_07_Gestion_Academica): Performance calculations and BI integration.
 
 **Programming with Python**
 - *Web Scraper*: Automated HTML data extraction with BeautifulSoup.
