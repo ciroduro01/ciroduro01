@@ -11,6 +11,13 @@
 I’m a data analyst and developer with experience in **databases, Python, and Data Science**.  
 My portfolio includes **35 projects**, over **60 certifications**, publications on **Medium**, original datasets on **Kaggle**, and a technical book (*Digital Foundations*).
 
+## Highlights
+- 35 projects across Databases, Python, and Data Science  
+- 60+ certifications (Cisco, Microsoft, SoloLearn, freeCodeCamp, FUN)  
+- Author of *Digital Foundations* technical book  
+- 8 original datasets + 15 notebooks on Kaggle  
+- Articles published on Medium (Programming, Robotics, Data Analysis)  
+
 ## Repositories
 - [Base_de_Datos_PostgreSQL](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL) → Modeling and query projects in PostgreSQL, integrating tools such as Power BI and DBeaver.  
 - [Programacion_con_Python](https://github.com/ciroduro01/Programacion_con_Python) → Python exercises and projects, exploring logic, structures, and practical applications.  
