@@ -26,42 +26,41 @@ My portfolio includes **35 projects**, over **60 certifications**, publications 
 ## Featured Projects
 
 **Database Modeling (PostgreSQL)**
-- [E-Commerce Platform](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL/tree/main/Proyecto_06_Plataforma_eCommerce): Transaction & billing model with advanced queries.
-- [Gestión Académica](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL/tree/main/Proyecto_07_Gestion_Academica): Performance calculations and BI integration.
+- [E-Commerce Platform](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL/tree/main/Proyecto_06_Plataforma_eCommerce) → Transaction & billing model with advanced queries.
+- [Gestión Académica](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL/tree/main/Proyecto_07_Gestion_Academica) → Performance calculations and BI integration.
 
 **Programming with Python**
-- [Web Scraper](https://github.com/ciroduro01/Programacion_con_Python/tree/main/Proyecto12_Web_Scraper): Automated HTML data extraction with BeautifulSoup.
-- [REST API with Flask](https://github.com/ciroduro01/Programacion_con_Python/tree/main/Proyecto13_API_REST_Flask): CRUD backend with Flask-SQLAlchemy.
-- [Professional Blog with Django](https://github.com/ciroduro01/Programacion_con_Python/tree/main/Proyecto15_Blog_Django): Full-stack application using MVT pattern.
+- [Web Scraper](https://github.com/ciroduro01/Programacion_con_Python/tree/main/Proyecto12_Web_Scraper) → Automated HTML data extraction with BeautifulSoup.
+- [REST API with Flask](https://github.com/ciroduro01/Programacion_con_Python/tree/main/Proyecto13_API_REST_Flask) → CRUD backend with Flask-SQLAlchemy.
+- [Professional Blog with Django](https://github.com/ciroduro01/Programacion_con_Python/tree/main/Proyecto15_Blog_Django) → Full-stack application using MVT pattern.
 
 **Data Science & Advanced Analysis**
-- [Housing Value Prediction](https://github.com/ciroduro01/Data_Analysis_Projects/tree/main/Proyecto9_Predicciones_viviendas_California): Regression with Random Forest, high R² score.
-- [Geospatial Analysis](https://github.com/ciroduro01/Data_Analysis_Projects/tree/main/Proyecto_10_Analisis_geoespacial_UK): Traffic accident heatmaps with Folium.
-- [Sentiment Analysis (NLP)](https://github.com/ciroduro01/Data_Analysis_Projects/tree/main/Proyecto_11_Sentimientos_peliculas): TF-IDF and classification of reviews.
-
+- [Housing Value Prediction](https://github.com/ciroduro01/Data_Analysis_Projects/tree/main/Proyecto9_Predicciones_viviendas_California) → Regression with Random Forest, high R² score.
+- [Geospatial Analysis](https://github.com/ciroduro01/Data_Analysis_Projects/tree/main/Proyecto_10_Analisis_geoespacial_UK) → Traffic accident heatmaps with Folium.
+- [Sentiment Analysis (NLP)](https://github.com/ciroduro01/Data_Analysis_Projects/tree/main/Proyecto_11_Sentimientos_peliculas) → TF-IDF and classification of reviews.
 
 ## Certifications & Awards
 Over 60 certifications across:
-- **Cisco Academy** (Data Analysis, Data Science with Python, Digital Literacy)  
-- **SoloLearn** (Web Development, Python Developer, Artificial Intelligence)  
-- **freeCodeCamp** (Legacy Responsive Web Design, Foundational C# with Microsoft)
-- **Microsoft Learn** (Azure Fundamentals, Power BI Data Analysis)  
-- **France Université Numérique (FUN)** (Vivre en France B1, Éthique de la Recherche)
-- **Universidad Nacional de Córdoba** (Hoja de Cálculo de Google Drive, Innovación Abierta y Vinculación)
+- **Cisco Academy** → Data Analysis, Data Science with Python, Digital Literacy
+- **SoloLearn** → Web Development, Python Developer, Artificial Intelligence
+- **freeCodeCamp** → Legacy Responsive Web Design, Foundational C# with Microsoft
+- **Microsoft Learn** → Azure Fundamentals, Power BI Data Analysis
+- **France Université Numérique (FUN)** → Vivre en France B1, Éthique de la Recherche
+- **Universidad Nacional de Córdoba** → Hoja de Cálculo de Google Drive, Innovación Abierta y Vinculación
 
 ## Kaggle & Medium
 - **Kaggle** → 8 original datasets + 15 notebooks (Python & R).  
 - **Medium** → Articles on topics such as programming, robotics, and data analysis.  
 
 ## Digital Foundations Series
-- **Volume 1 published**: Hardware & Software, The Desktop, Google Platform, and Word Processing (120 practical activities).  
+- **Volume 1 published** → Hardware & Software, The Desktop, Google Platform, and Word Processing (120 practical activities).  
 - **Volumes 2 & 3 coming soon**. 
 
 ## Contact
 Open to **global and remote opportunities** as a *Data Analyst* or *Python Developer*.  
-- GitHub: [ciroduro01](https://github.com/ciroduro01)  
-- Kaggle: [ciroduro01](https://www.kaggle.com/ciroduro01)  
-- Medium: [ciroduro01](https://medium.com/@ciroduro01)
+- GitHub → [ciroduro01](https://github.com/ciroduro01)  
+- Kaggle → [ciroduro01](https://www.kaggle.com/ciroduro01)  
+- Medium → [ciroduro01](https://medium.com/@ciroduro01)
 
 ---
 
