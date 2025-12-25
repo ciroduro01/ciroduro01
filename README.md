@@ -66,6 +66,12 @@ Over 60 certifications across:
 - **Volume 1 published** → Hardware & Software, The Desktop, Google Platform, and Word Processing (120 practical activities).  
 - **Volumes 2 & 3 coming soon**. 
 
+## Languages
+- **Spanish** → Native  
+- **English & French** → Advanced (professional communication, technical writing)  
+- **Portuguese & German** → Working knowledge  
+- **Japanese & Thai** → Ongoing practice  
+
 ## Contact
 Open to **global and remote opportunities** as a *Data Analyst* or *Python Developer*.  
 - GitHub → [ciroduro01](https://github.com/ciroduro01)  
