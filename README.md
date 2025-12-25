@@ -51,12 +51,17 @@ My portfolio includes **35 projects**, over **60 certifications**, publications 
 
 ## Certifications & Awards
 Over 60 certifications across:
-- **Cisco Academy** → Data Analysis, Data Science with Python, Digital Literacy
-- **SoloLearn** → Web Development, Python Developer, Artificial Intelligence
-- **freeCodeCamp** → Legacy Responsive Web Design, Foundational C# with Microsoft
-- **Microsoft Learn** → Azure Fundamentals, Power BI Data Analysis
-- **France Université Numérique (FUN)** → Vivre en France B1, Éthique de la Recherche
-- **Universidad Nacional de Córdoba** → Hoja de Cálculo de Google Drive, Innovación Abierta y Vinculación
+- **Cisco Academy** → Data Analysis, Data Science with Python, Digital Literacy  
+- **SoloLearn** → Web Development, Python Developer, Artificial Intelligence  
+- **freeCodeCamp** → Responsive Web Design, Foundational C# with Microsoft  
+- **Microsoft Learn** → Azure Fundamentals, Power BI Data Analysis  
+- **France Université Numérique (FUN)** → Vivre en France B1, Éthique de la Recherche  
+- **Universidad Nacional de Córdoba** → Google Drive Spreadsheets, Open Innovation  
+
+➡️ Cisco Academy badges collection on [Credly](https://www.credly.com/users/ciro-duro)  
+➡️ Certificates on [freeCodeCamp](https://www.freecodecamp.org/CiroDuro)  
+➡️ Trophies & badges on [Microsoft Learn](https://learn.microsoft.com/en-us/users/ciroduro-4457/)  
+➡️ Certificates on [SoloLearn](https://www.sololearn.com/en/profile/29793357)
 
 ## Kaggle & Medium
 - **Kaggle** → 8 original datasets + 15 notebooks (Python & R).  
