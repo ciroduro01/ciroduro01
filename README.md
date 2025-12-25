@@ -22,6 +22,7 @@ My portfolio includes **35 projects**, over **60 certifications**, publications 
 - [Base_de_Datos_PostgreSQL](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL) → Modeling and query projects in PostgreSQL, integrating tools such as Power BI and DBeaver.  
 - [Programacion_con_Python](https://github.com/ciroduro01/Programacion_con_Python) → Python exercises and projects, exploring logic, structures, and practical applications.  
 - [Data_Analysis_Projects](https://github.com/ciroduro01/Data_Analysis_Projects) → Data analysis portfolio using SQL, Python, and Power BI, focused on processes, metrics, and visualizations.
+- [Digital Foundations Books](https://github.com/ciroduro01/Digital-Foundations-Series) → 
 
 ## Featured Projects
 
