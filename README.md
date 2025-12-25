@@ -16,6 +16,22 @@ This profile gathers my projects and learning journey.
 - [Programacion_con_Python](https://github.com/ciroduro01/Programacion_con_Python) → Python exercises and projects, exploring logic, structures, and practical applications.  
 - [Data_Analysis_Projects](https://github.com/ciroduro01/Data_Analysis_Projects) → Data analysis portfolio using SQL, Python, and Power BI, focused on processes, metrics, and visualizations.
 
+### Featured Projects
+
+**Database Modeling (PostgreSQL)**
+- *E-Commerce Platform*: Transaction & billing model with advanced queries.
+- *Gestión Académica* (Academic Management Scheme): Performance calculations and BI integration.
+
+**Programming with Python**
+- *Web Scraper*: Automated HTML data extraction with BeautifulSoup.
+- *REST API with Flask*: CRUD backend with Flask-SQLAlchemy.
+- *Professional Blog with Django*: Full-stack application using MVT pattern.
+
+**Data Science & Advanced Analysis**
+- *Housing Value Prediction*: Regression with Random Forest, high R² score.
+- *Geospatial Analysis*: Traffic accident heatmaps with Folium.
+- *Sentiment Analysis (NLP)*: TF-IDF and classification of reviews.
+
 ---
 
 ## Español
