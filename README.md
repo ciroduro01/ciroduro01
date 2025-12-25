@@ -30,15 +30,24 @@ My portfolio includes **35 projects**, over **60 certifications**, publications 
 - [E-Commerce Platform](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL/tree/main/Proyecto_06_Plataforma_eCommerce) → Transaction & billing model with advanced queries.
 - [Gestión Académica](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL/tree/main/Proyecto_07_Gestion_Academica) → Performance calculations and BI integration.
 
+**Visualization 1 - Project 7 (Gestión Académica): Course Ranking Bar Chart (Power BI)**
+![Visualization 1: Course Ranking: Historical Performance (Average Grade) (Bar Chart)](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL/blob/main/Proyecto_07_Gestion_Academica/assets/Proyecto7_Nota_Promedio.png)
+
 **Programming with Python**
 - [Web Scraper](https://github.com/ciroduro01/Programacion_con_Python/tree/main/Proyecto12_Web_Scraper) → Automated HTML data extraction with BeautifulSoup.
 - [REST API with Flask](https://github.com/ciroduro01/Programacion_con_Python/tree/main/Proyecto13_API_REST_Flask) → CRUD backend with Flask-SQLAlchemy.
 - [Professional Blog with Django](https://github.com/ciroduro01/Programacion_con_Python/tree/main/Proyecto15_Blog_Django) → Full-stack application using MVT pattern.
 
+**Image - Project 15 (Professional Blog with Django): Three blog posts created with Django**
+![Visualization of Blog Posts](https://github.com/ciroduro01/Programacion_con_Python/blob/main/Proyecto15_Blog_Django/django_blog.png)
+
 **Data Science & Advanced Analysis**
 - [Housing Value Prediction](https://github.com/ciroduro01/Data_Analysis_Projects/tree/main/Proyecto9_Predicciones_viviendas_California) → Regression with Random Forest, high R² score.
 - [Geospatial Analysis](https://github.com/ciroduro01/Data_Analysis_Projects/tree/main/Proyecto_10_Analisis_geoespacial_UK) → Traffic accident heatmaps with Folium.
 - [Sentiment Analysis (NLP)](https://github.com/ciroduro01/Data_Analysis_Projects/tree/main/Proyecto_11_Sentimientos_peliculas) → TF-IDF and classification of reviews.
+
+**Visualization 2 - Project 10 (Geospatial Analysis): Map generated with Folium library**
+![Traffic Accidents in the UK Heatmap](https://github.com/ciroduro01/Data_Analysis_Projects/blob/main/Proyecto_10_Analisis_geoespacial_UK/folium_uk.png)
 
 ## Certifications & Awards
 Over 60 certifications across:
