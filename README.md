@@ -30,9 +30,9 @@ My portfolio includes **35 projects**, over **60 certifications**, publications 
 - [Gestión Académica](https://github.com/ciroduro01/Base_de_Datos_PostgreSQL/tree/main/Proyecto_07_Gestion_Academica): Performance calculations and BI integration.
 
 **Programming with Python**
-- *Web Scraper*: Automated HTML data extraction with BeautifulSoup.
-- *REST API with Flask*: CRUD backend with Flask-SQLAlchemy.
-- *Professional Blog with Django*: Full-stack application using MVT pattern.
+- [Web Scraper](https://github.com/ciroduro01/Programacion_con_Python/tree/main/Proyecto12_Web_Scraper): Automated HTML data extraction with BeautifulSoup.
+- [REST API with Flask](https://github.com/ciroduro01/Programacion_con_Python/tree/main/Proyecto13_API_REST_Flask): CRUD backend with Flask-SQLAlchemy.
+- [Professional Blog with Django](https://github.com/ciroduro01/Programacion_con_Python/tree/main/Proyecto15_Blog_Django): Full-stack application using MVT pattern.
 
 **Data Science & Advanced Analysis**
 - *Housing Value Prediction*: Regression with Random Forest, high R² score.
