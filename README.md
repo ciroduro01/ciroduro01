@@ -35,9 +35,9 @@ My portfolio includes **35 projects**, over **60 certifications**, publications 
 - [Professional Blog with Django](https://github.com/ciroduro01/Programacion_con_Python/tree/main/Proyecto15_Blog_Django): Full-stack application using MVT pattern.
 
 **Data Science & Advanced Analysis**
-- *Housing Value Prediction*: Regression with Random Forest, high R² score.
-- *Geospatial Analysis*: Traffic accident heatmaps with Folium.
-- *Sentiment Analysis (NLP)*: TF-IDF and classification of reviews.
+- [Housing Value Prediction](https://github.com/ciroduro01/Data_Analysis_Projects/tree/main/Proyecto9_Predicciones_viviendas_California): Regression with Random Forest, high R² score.
+- [Geospatial Analysis](https://github.com/ciroduro01/Data_Analysis_Projects/tree/main/Proyecto_10_Analisis_geoespacial_UK): Traffic accident heatmaps with Folium.
+- [Sentiment Analysis (NLP)](https://github.com/ciroduro01/Data_Analysis_Projects/tree/main/Proyecto_11_Sentimientos_peliculas): TF-IDF and classification of reviews.
 
 
 ## Certifications & Awards
